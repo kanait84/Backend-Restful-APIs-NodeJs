@@ -22,5 +22,24 @@ Restful API has been created with NodeJs and Mangoose DB
 ● Store authenticated user customer support ticket by storing (User ID, Message)<br/>
 
 ● Admin user request to list customer support tickets<br/><br/>
-You are also required to implement a testing method depending on your framework, or using a
-simple HTTP request automation tool.
+
+<h1>How to Run the Code</h1>
+
+
+<h3>NodeJS</h3>
+<p> ● npm install</p><br/><br/>
+
+<h3>ExpressJs</h3>
+<p> ● npm install -g express-generator </p><br/><br/>
+
+<h3>JWT(jsonwebtoken), bcrypt.js, Mongoose</h3>
+    <p>● npm i jsonwebtoken</p>
+    <p>● npm i bcryptjs </p>
+    <p>● npm i mongoose</p><br/><br/>
+
+Created Application named “testApp” and start to Run ExpressJs Application in Local
+   <p>● $ express --view=pug testApp</p>
+    <h3>$ DEBUG=testApp:* npm start</h3><br/><br/>
+
+<p>Connect with Mongoose DB Using Robo T3</p>
+
