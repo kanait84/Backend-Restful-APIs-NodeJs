@@ -30,6 +30,9 @@ Restful API has been created with NodeJs and Mangoose DB
 <p> ● npm install</p><br/><br/>
 
 <h3>ExpressJs</h3>
+
+<p> ● npx express-generator</p><br/><br/>
+
 <p> ● npm install -g express-generator </p><br/><br/>
 
 <h3>JWT(jsonwebtoken), bcrypt.js, Mongoose</h3>
